@@ -1,1 +1,1 @@
-# mastermind
+#TOP Ruby OOP project
